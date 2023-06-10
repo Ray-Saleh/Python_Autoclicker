@@ -1,6 +1,6 @@
 # Python_Autoclicker
 
-
+** DISCLOSER: THIS PROGRAM IS USED TO LEARN ABOUT INPUTS FOR THE COMPUTER THROUGH CODE. THESE DO NOT FOLLOW THE IEEE STANDARDS, THESE ARE CONSIDERED CHEATS IN MOST GAMES USE AT YOUR OWN DISCRETION**
 
 An Auto Clicker in python. Inside the code you will see the the variable "delay" (LINE 9) which will be used to change the speed of the CPS. You can increase the number which will make the clicks take longer or decrease the time which will make the clicks faster
 
